@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gettingcodedone
+- 👀 I’m interested in coding for fun!
+- 🌱 I’m currently learning how to enjoy coding.
+- 💞️ I’m looking to collaborate on Open Source!
